@@ -10,6 +10,16 @@ The data includes two sets, one on the plots and one on the suspects. I will mak
 
 The creator described the curated datasets as follows: *"The data in this report consists of individuals accused of terrorism and related crimes since September 11, 2001, who are either American citizens or who engaged in terrorist activity within the United States. The data includes some individuals who died before being charged with a crime, but were widely reported to have engaged in terrorist activity."*
 
+### Aim & Question 
+
+For this research, I am interested in the relationship between domestic terrorist attacks, their ideology, and citizenship of the perpetrator. As Muslims have experienced a lot of discrimition since 9/11, and have also been a part of Trump's campaign through the executive order, also known as the 'Muslim Ban' that wanted to stop immigration from Muslim-majority countries due to their perceived involvement in terror, I am interested how Trump's claim and the perceived anxiety around Muslim immigrants reflect on the numbers presented in the dataset. Trump claimed the ban was meant to protect the American people from terrorist attacks by foreign nationals admitted to the United States.
+
+To test if the numbers in this dataset reflect the anxieties mentioned above, I want to visualize the involvement of Jihadism (a form of Islamic terrorism) as well as the distribution of citizen status to see if there is a correlation. I will try to visualize this by asking myself these questions:
+
+  1. How is the ideology of the attacks on U.S. soil divided?
+  2. How does this relate to the citizenship status of the perpetrator? How is this divided?
+  3. What does the data allow us to conclude around the anxieties regarding Muslim immigration to the U.S.? 
+
 ### Data Overview
 
 **plots.csv**
