@@ -1,0 +1,217 @@
+plot_ID,plot_name,plot_ideology,plot_status,prevention_method,attack_date,victims_wounded,victims_killed
+1,2002 Los Angeles Airport Shooting,Jihadist,Not Prevented,,7/4/2002,4,2
+2,2002 South Florida Bomb Plot,Jihadist,Prevented,Family/Community Tip,,0,0
+3,2003 Kuwait Grenade Attack,Jihadist,Not Prevented,,,15,2
+4,2002 Padilla Plot,Jihadist,Prevented,"Non-NSA Intelligence Provided by CIA, FBI, etc.",,0,0
+5,2004 Herald Square Bomb Plot,Jihadist,Prevented,Family/Community Tip,,0,0
+6,2004 SAM Missile Sting,Jihadist,Prevented,"Non-NSA Intelligence Provided by CIA, FBI, etc.",,0,0
+7,2006 Ahmed and Sadequee Plot,Jihadist,Prevented,Routine Law Enforcement,,0,0
+8,2006 Seattle Jewish Federation Shooting,Jihadist,Not Prevented,,7/28/2006,5,1
+9,2007 Fort Dix Six,Jihadist,Prevented,Suspicious Activity Report,,0,0
+10,2006 SUV Attack,Jihadist,Not Prevented,,,6,0
+11,2007 JFK Airport Plot,Jihadist,Prevented,"Non-NSA Intelligence Provided by CIA, FBI, etc.",,0,0
+12,2007 Materials for Explosives Case,Jihadist,Prevented,Routine Law Enforcement,,0,0
+13,2008 Long Island Rail Road Plot,Jihadist,Prevented,NSA Surveillance Under Unknown Authority,,0,0
+14,2009 Federal Building Bomb Plot,Jihadist,Prevented,Routine Law Enforcement,,0,0
+15,2009 Fort Hood Shooting,Jihadist,Not Prevented,,11/5/2009,32,13
+16,2009 Little Rock Shooting,Jihadist,Not Prevented,,6/1/2009,1,1
+17,2010 DC Metro Plot,Jihadist,Prevented,Family/Community Tip,,0,0
+18,2009 New York Stock Exchange Plot,Jihadist,Prevented,NSA Surveillance Targeting Non-US Persons Under Section 702,,0,0
+19,2009 Jihad Jane Plot,Jihadist,Prevented,Unknown,,0,0
+20,2010 Maryland Recruiting Station Bomb Plot,Jihadist,Prevented,Informant,,0,0
+21,2010 Northern Virginia Military Shootings,Jihadist,Not Prevented,,,0,0
+22,2011 Bombmaker Plot,Jihadist,Prevented,Suspicious Activity Report,,0,0
+23,2010 Times Square Bomb Plot,Jihadist,Not Prevented,,,0,0
+24,2011 Manhattan Bomb Plot,Jihadist,Prevented,Informant,,0,0
+25,2011 New York City Bomb Plot,Jihadist,Prevented,Routine Law Enforcement,,0,0
+26,2011 Model Airplanes Plot,Jihadist,Prevented,Unknown,,0,0
+27,2011 Resisting Arrest,Jihadist,Prevented,Unknown,,0,0
+28,2011 Seattle MEPS Plot,Jihadist,Prevented,Informant,,0,0
+29,2011 Orbach and Pouryan Arms Sales,Jihadist,Prevented,Informant,,0,0
+30,2012 Federal Reserve Bomb Plot,Jihadist,Prevented,Informant,,0,0
+31,2012 US Capitol Bomb Plot,Jihadist,Prevented,Informant,,0,0
+32,2013 Weapons Purchase,Jihadist,Prevented,Unknown,,0,0
+33,2010 Almonte and Alessa,Jihadist,Prevented,Family/Community Tip,,0,0
+34,2006 Toledo Plot,Jihadist,Prevented,Informant,,0,0
+35,2010 San Diego Shabaab Support Network,Jihadist,Prevented,NSA Bulk Collection Under Section 215,,0,0
+36,2002 Buffalo Six,Jihadist,Prevented,Family/Community Tip,,0,0
+37,2009 DC Five,Jihadist,Prevented,Family/Community Tip,,0,0
+38,2005 Farhane Brent Sabir and Shah,Jihadist,Prevented,Informant,,0,0
+39,2005 Folsom Prison Plot,Jihadist,Prevented,Routine Law Enforcement,,0,0
+40,2010 South Park Threat and Associated Activity,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+41,2013 Kaliebe and Zea,Jihadist,Prevented,Unknown,,0,0
+42,2006 Liberty City Seven,Jihadist,Prevented,Informant,,0,0
+43,2003 Majid Khan Support Cell,Jihadist,Prevented,Unknown,,0,0
+44,2012 Islamic Jihad Union Support Network,Jihadist,Prevented,NSA Surveillance Targeting Non-US Persons Under Section 702,,0,0
+45,2006+ Minnesota Shabaab Supporters,Jihadist,Prevented,Unknown,,0,0
+46,2008 Mumbai Attack,Jihadist,Not Prevented,,,,164
+47,2009 Jyllands Posten Plot,Jihadist,Prevented,NSA Surveillance Targeting Non-US Persons Under Section 702,,0,0
+48,2013 Nabi and Alsarabbi,Jihadist,Prevented,Informant,,0,0
+49,2009 Newburgh Four,Jihadist,Prevented,Informant,,0,0
+50,2002 Oregon Training Camp,Jihadist,Prevented,Suspicious Activity Report,,0,0
+51,2002 Portland Seven,Jihadist,Prevented,Suspicious Activity Report,,0,0
+52,2009 Raleigh Jihad,Jihadist,Prevented,Family/Community Tip,,0,0
+53,2012 Riverside Taliban Supporters,Jihadist,Prevented,Unknown,,0,0
+54,2003 Virginia Jihad Network,Jihadist,Prevented,Family/Community Tip,,0,0
+55,2006 Williams and Mirza,Jihadist,Prevented,Routine Law Enforcement,,0,0
+56,2009 Christmas Day Bomb Plot,Jihadist,Not Prevented,,,0,0
+57,2003 Ahmed Omar Abu Ali,Jihadist,Prevented,"Non-NSA Intelligence Provided by CIA, FBI, etc.",,0,0
+58,2001 Shoe Bomber Plot,Jihadist,Not Prevented,,,0,0
+59,2010 St. Louis Shabaab Support Network,Jihadist,Prevented,Unknown,,0,0
+60,2001 John Walker Lindh,Jihadist,Prevented,"Non-NSA Intelligence Provided by CIA, FBI, etc.",,0,0
+61,2003 Hemant Lakhani,Jihadist,Prevented,Informant,,0,0
+62,2004 Mohammed Babar,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+63,2004 Ryan Anderson,Jihadist,Prevented,Suspicious Activity Report,,0,0
+64,2006 Syed Hashmi,Jihadist,Prevented,Informant,,0,0
+65,2007 Paul Hall,Jihadist,Prevented,"Non-NSA Intelligence Provided by CIA, FBI, etc.",,0,0
+66,2006 Ruben Shumpert,Jihadist,Prevented,Family/Community Tip,,0,0
+67,2009 Jehad Mostafa,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+68,2010 Portland Bomb Plot,Jihadist,Prevented,NSA Surveillance Under Unknown Authority,,0,0
+69,2009 Betim Kaziu,Jihadist,Prevented,Unknown,,0,0
+70,2010 Raja Khan,Jihadist,Prevented,Unknown,,0,0
+71,2010 Sharif Mobley,Jihadist,Prevented,Unknown,,0,0
+72,2011 Samir Khan,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+73,2011 Hafiz Khan,Jihadist,Prevented,Unknown,,0,0
+74,2011 Jubair Ahmad,Jihadist,Prevented,Unknown,,0,0
+75,2012 Craig Baxam,Jihadist,Prevented,"Non-NSA Intelligence Provided by CIA, FBI, etc.",,0,0
+76,2003 Mohammed Warsame,Jihadist,Prevented,NSA Surveillance Under Unknown Authority,,0,0
+77,2013 Abdella Tounisi,Jihadist,Prevented,Informant,,0,0
+78,2013 Fazliddin Kurbanov,Jihadist,Prevented,Unknown,,0,0
+79,2008 Aafia Siddiqui,Jihadist,Prevented,"Non-NSA Intelligence Provided by CIA, FBI, etc.",,0,0
+80,2010 Omar Hammami,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+81,2011 Anwar Awlaki,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+82,2013 Basit Sheikh,Jihadist,Prevented,Informant,,0,0
+84,"2004 Tulsa OK, Bank Robbery",Right Wing,,,5/24/2004,,1
+85,"2008 Knoxville, TN Church Shooting",Right Wing,,,7/27/2008,7,2
+86,2009 Holocaust Museum Shooting,Right Wing,,,6/10/2009,1,1
+87,2009 George Tiller Assassination,Right Wing,,,5/31/2009,0,1
+88,"2009 Flores Murders, Pima County, AZ",Right Wing,,,5/30/2009,1,2
+89,"2009 Brockton, MA Murders",Right Wing,,,1/21/2009,1,2
+90,2013 Wichita Airport Bomb Plot,Jihadist,Prevented,Informant,,0,0
+91,2009 Pittsburgh Police Shootings,Right Wing,,,4/4/2009,2,3
+92,"2010 Carlisle, PA Murder",Right Wing,,,7/21/2010,,1
+93,"2010 Austin, TX Plane Attack",Right Wing,,,2/18/2010,,1
+94,2012 St. John's Parish Police Ambush,Right Wing,,,8/16/2012,2,2
+95,2012 Tri-State Killing Spree,Right Wing,,,9/26/2011,,4
+96,2012 Sikh Temple Shooting,Right Wing,,,8/5/2012,4,6
+97,2014 Kansas Jewish Center Shooting,Right Wing,,,4/13/2014,,3
+98,2011 FEAR Militia,Right Wing,,,12/5/2011,,3
+99,2014 Abu Hurayra al Amriki,Jihadist,Not Prevented,Family/Community Tip,,,
+100,2010 King Salmon,,,,,,
+101,2014 New York Hatchet Attack,Jihadist,Not Prevented,,,2,0
+102,2010 Abdel Shehadeh,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+103,2013 Shabaab Facilitation Network,Jihadist,Prevented,Unknown,,0,0
+104,2014 Shabaab Funding Group,Jihadist,Prevented,Unknown,,0,0
+105,2014 Yusra Ismail,Jihadist,,Family/Community Tip,,0,0
+106,2014 Adam Dandach,Jihadist,Prevented,Unknown,,0,0
+107,2014 Douglas McCain,Jihadist,,Unknown,,0,0
+108,2014 Washington and New Jersey Killing Spree,Jihadist,Not Prevented,,4/27/2014,,4
+109,2014 Mohammed Khan,Jihadist,Prevented,Unknown,,0,0
+110,2014 Heather Coffman,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+111,2014 Yusuf and Nur,Jihadist,Prevented,Routine Law Enforcement,,0,0
+112,2015 Brooklyn ISIS Plot,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+113,2004 Adam Gadahn,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+114,2015 Hamza Ahmed,Jihadist,Prevented,Unknown,,0,0
+115,2015 Bosnian Syria Support Cell,Jihadist,Prevented,Unknown,,0,0
+116,2013 Boston Marathon Bombing,Jihadist,Not Prevented,,4/15/2013,170,4
+117,2009 Mehanna and Abousamra,Jihadist,Prevented,Unknown,,0,0
+118,2012 Qazi Brothers Plot,Jihadist,Prevented,Unknown,,0,0
+119,2003 Ohio Shopping Mall Plot,Jihadist,Prevented,"Non-NSA Intelligence Provided by CIA, FBI, etc.",,0,0
+120,2015 Military Facility and Defection Plot,Jihadist,Prevented,Unknown,,0,0
+121,2015 Charleston Church Shooting,Right Wing,Not Prevented,,6/17/2015,,9
+122,2014 Las Vegas Police Ambush,Right Wing,Not Prevented,,6/8/2014,,3
+123,2015 Fort Riley Bomb Plot,Jihadist,Prevented,Suspicious Activity Report,,0,0
+124,2015 Tairod Pugh,Jihadist,Prevented,Unknown,,0,0
+125,2015 New York Bomb Plot,Jihadist,Prevented,Unknown,,0,0
+126,2014 Joshua Van Haften,Jihadist,Prevented,Suspicious Activity Report,,0,0
+127,2009 NYC Subway Plot,Jihadist,Prevented,NSA Surveillance Targeting Non-US Persons Under Section 702,,0,0
+128,2015 Keonna Thomas,Jihadist,Prevented,Unknown,,0,0
+129,2015 Nusra Returnee Plot,Jihadist,Prevented,Unknown,,0,0
+130,2015 Capitol Bomb Plot,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+131,2014 Abdifatah Aden,Jihadist,,Unknown,,0,0
+132,2011 Agron Hasbajrami,Jihadist,Prevented,NSA Surveillance Targeting Non-US Persons Under Section 702,,0,0
+133,2006 Rockford Mall Plot,Jihadist,Prevented,Unknown,,0,0
+134,2015 Bilal Abood,Jihadist,Prevented,Unknown,,0,0
+135,2015 Amin and Niknejad,Jihadist,Prevented,Unknown,,0,0
+136,2015 Miami Gun Charge,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+137,2015 Saeed Kodaimati,Jihadist,Prevented,Unknown,,0,0
+138,2009 Dallas Bomb Plot,Jihadist,Prevented,Informant,,0,0
+139,2011 Presidential Death Threats,Jihadist,Prevented,Unknown,,0,0
+140,2011 Plot Targeting Former President Bush,Jihadist,Prevented,Suspicious Activity Report,,0,0
+141,2011 Fort Hood Bomb Plot,Jihadist,Prevented,Suspicious Activity Report,,0,0
+142,2012 Tampa Plot,Jihadist,Prevented,Informant,,0,0
+143,2012 Abukhdair and Wilson,Jihadist,Prevented,Unknown,,0,0
+144,2012 Chicago Bar Bomb Plot,Jihadist,Prevented,Unknown,,0,0
+145,2007 Ahmed Cousins,Jihadist,Prevented,Informant,,0,0
+146,2007 Daniel Maldonado,Jihadist,Prevented,"Non-NSA Intelligence Provided by CIA, FBI, etc.",,0,0
+147,2010 Barry Bujol,Jihadist,Prevented,Unknown,,0,0
+148,2011 Oytun Ayse Mihalik,Jihadist,Prevented,Unknown,,0,0
+149,2011 Kentucky Iraqi Insurgent Supporters,Jihadist,Prevented,Unknown,,0,0
+150,2005 Hamid Hayat,Jihadist,Prevented,Informant,,0,0
+151,2010 Shaker Masri,Jihadist,Prevented,Unknown,,0,0
+152,2013 Bank Plot,Jihadist,Prevented,Routine Law Enforcement,,0,0
+153,2013 Shelton Bell,Jihadist,Prevented,Family/Community Tip,,0,0
+154,2014 Michael Todd Wolfe,Jihadist,Prevented,Informant,,0,0
+155,2013 Sinh Vinh Ngo Nguyen,Jihadist,Prevented,Unknown,,0,0
+156,2014 Oklahoma Beheading,Jihadist,Not Prevented,,9/25/2014,1,1
+157,2015 South Carolina Plot,Jihadist,Prevented,Unknown,,0,0
+158,2015 Asher Khan,Jihadist,Prevented,Routine Law Enforcement,,0,0
+159,2014 Nicholas Teausant,Jihadist,Prevented,Informant,,0,0
+160,2014 Shannon Conley,Jihadist,Prevented,Suspicious Activity Report,,0,0
+161,2010 King Salmon Alaska Plot,Jihadist,Prevented,Unknown,,0,0
+162,2014 Donald Ray Morgan,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+163,2014 Jordan and Brown,Jihadist,Prevented,Informant,,0,0
+164,"2015 Garland, Texas Shooting",Jihadist,Not Prevented,,,1,0
+165,2015 Elhuzayel and Badawi,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+166,2014 Liban Mohamed,Jihadist,,Unknown,,0,0
+167,2015 Boston Beheading Plot,Jihadist,Not Prevented,,,0,0
+168,2015 Ohio Firearm Purchase,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+169,2001 Ali al-Marri,Jihadist,Prevented,Routine Law Enforcement,,0,0
+170,2015 North Carolina Firearms Arrest,Jihadist,Prevented,Family/Community Tip,,0,0
+171,2015 Alex Ciccolo,Jihadist,Prevented,Family/Community Tip,,0,0
+172,2015 Leon Davis,Jihadist,Prevented,Unknown,,0,0
+173,2015 New York - New Jersey Plot,Jihadist,Prevented,Family/Community Tip,,0,0
+174,2015 Colorado Planned Parenthood Shooting,Right Wing,Not Prevented,,11/27/2015,9,3
+175,2014 Blooming Grove Police Shooting,Right Wing,Not Prevented,,9/12/2014,1,1
+176,"2015 Chattanooga, TN Military Shooting",Jihadist,Not Prevented,,7/16/2015,2,5
+177,2015 San Bernardino Shooting,Jihadist,Not Prevented,,12/2/2015,21,14
+178,2015 Beach Bomb Plot,Jihadist,Prevented,Family/Community Tip,,0,0
+179,2015 Young and Dakhlalla,Jihadist,Prevented,Informant,,0,0
+180,2015 Arafat Nagi,Jihadist,Prevented,Family/Community Tip,,0,0
+181,2014 Rochester New York Firearms Purchase,Jihadist,Prevented,Informant,,0,0
+182,2001 Zacarias Moussaoui,Jihadist,Prevented,Suspicious Activity Report,,0,0
+183,2015 Pope Plot,Jihadist,Prevented,Unknown,,0,0
+184,2016 Orlando Night Club Shooting,Jihadist,Not Prevented,,6/12/2016,53,49
+185,2016 Philadelphia Police Shooting,Jihadist,Not Prevented,,,1,0
+186,2015 Ahmed El Gammal,Jihadist,Prevented,Unknown,,0,0
+187,2015 Ali Saleh,Jihadist,Prevented,Unknown,,0,0
+188,2016 Akram Musleh,Jihadist,Prevented,Militant Self-Disclosed,,0,0
+189,2005 Ronald Grecula,Jihadist,Prevented,Informant,,0,0
+190,2016 Nicholas Young,Jihadist,Prevented,"Non-NSA Intelligence Provided by CIA, FBI, etc.",,,
+191,2016 Bangladeshi Police Raid,Jihadist,Not Prevented,,,,
+192,2016 Dallas Police Shooting,Left Wing,,,7/7/2016,11,5
+193,2016 New York City-New Jersey Bombings,Jihadist,Not Prevented,,9/17/2016,31,0
+194,2016 Adnan Fazeli,Jihadist,Prevented,,,0,0
+195,2016 St. Cloud Mall Stabbing,Jihadist,Not Prevented,,9/17/2016,10,0
+196,2016 Wasil Farooqui,Jihadist,Not Prevented,,8/20/2016,2,0
+197,2016 Erick Jamal Hendricks,Jihadist,Prevented,Informant,,0,0
+198,2016 Nelash Mohamed Das,Jihadist,Prevented,Informant,,0,0
+199,"2016 Hubbard, Christian, and Jackson",Jihadist,Prevented,Informant,,0,0
+200,2016 Nicholas Young,Jihadist,Prevented,Informant,,0,0
+201,2016 Sebastian Gregerson,Jihadist,Prevented,Informant,,0,0
+202,2016 Mahin Khan,Jihadist,Prevented,Family/Community Tip,,0,0
+203,2016 Ludke and Padilla-Conde,Jihadist,Prevented,"Non-NSA Intelligence Provided by CIA, FBI, etc.",,0,0
+204,2016 Jalloh Attack Plot,Jihadist,Prevented,Informant,,0,0
+205,2016 Arizona prison Bomb Plot,Jihadist,Prevented,Family/Community Tip,,0,0
+206,2001 Post-9/11 Shootings,Right Wing,,,9/15/2001,1,2
+,2016 Aaron Travis Daniels ,Jihadist,Prevented,Informant,,0,0
+,2016 Mohamed Amiin Ali Roble,Jihadist,Prevented,Informant,,0,0
+,2015 Munir Abdulkader,Jihadist,Prevented,Informant,,0,0
+,2016 Yusuf Abdirizak Wehelie,Jihadist,Prevented,Informant,,0,0
+,2016 Ludke and Padilla-Conde,Jihadist,Prevented,Informant,,0,0
+,2016 Mohamed Rafik Naji,Jihadist,Prevented,Informant,,0,0
+,2016 Ohio State University attack,Jihadist,Not Prevented,,11/28/2016,11,0
+,2013 Balwinder Singh,Jihadist,Prevented,Unknown,,0,0
+,2015 Samy Mohammed El-Goarany,Jihadist,Not Prevented,,,0,0
+,2009 Saynab Abdirashid Hussein ,Jihadist,Not Prevented,,,0,0
+,2016 Lionel Nelson Williams,Jihadist,Prevented,Informant,,0,0
